@@ -1,0 +1,1 @@
+Kicad_Akiyuki_Symbol
