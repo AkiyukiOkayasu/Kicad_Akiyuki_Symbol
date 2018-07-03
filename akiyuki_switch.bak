@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Alps_SRBV
+#
+DEF Alps_SRBV SW 0 40 Y Y 1 F N
+F0 "SW" 0 350 50 H V C CNN
+F1 "Alps_SRBV" 0 -350 50 H V C CNN
+F2 "" -100 160 50 H I C CNN
+F3 "" 0 260 50 H I C CNN
+DRAW
+T 900 100 -150 20 0 0 0 pos1 Normal 0 C C
+T 900 0 -150 20 0 0 0 pos2 Normal 0 C C
+T 900 -100 -150 20 0 0 0 pos3 Normal 0 C C
+T 900 -200 -150 20 0 0 0 pos4 Normal 0 C C
+T 900 -200 150 20 0 0 0 pos5 Normal 0 C C
+T 900 -100 150 20 0 0 0 pos6 Normal 0 C C
+T 900 0 150 20 0 0 0 pos7 Normal 0 C C
+T 900 100 150 20 0 0 0 pos8 Normal 0 C C
+C 0 0 75 0 1 10 N
+S -250 200 250 -200 0 1 10 f
+X C 1 200 -300 100 U 50 50 1 1 B
+X ~ 2 100 -300 100 U 50 50 1 1 B
+X ~ 3 0 -300 100 U 50 50 1 1 B
+X ~ 4 -100 -300 100 U 50 50 1 1 B
+X ~ 5 -200 -300 100 U 50 50 1 1 B
+X ~ 6 -200 300 100 D 50 50 1 1 B
+X ~ 7 -100 300 100 D 50 50 1 1 B
+X ~ 8 0 300 100 D 50 50 1 1 B
+X ~ 9 100 300 100 D 50 50 1 1 B
+X C 10 200 300 100 D 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library
