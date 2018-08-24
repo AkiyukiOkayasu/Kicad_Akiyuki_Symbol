@@ -1,5 +1,5 @@
 # Kicad_Akiyuki_Symbol
-KiCad part library.
+KiCad part library for modular synth.
 
 - Akiyuki_Connector
 	-  THONKICONN
