@@ -2,14 +2,15 @@
 KiCad part library for modular synth.
 
 - Akiyuki_Connector
-	-  THONKICONN
+	- THONKICONN
 - Akiyuki_IC
 	- AnalogDevices: AD8273
 	- THAT: 2180
 - Akiyuki_UI
 	- Alps: SRBV
 	- NKK: NR01
-
+- Akiyuki_MCU
+	- PSoC4 4200: CY8C4244PVI-442（SSOP 28pin）
 
 
 ## License
