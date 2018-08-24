@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Alps_SRBV
+D Rotary encoder, dual channel, incremental quadrate outputs
+K rotary switch encoder
+F ~
+$ENDCMP
+#
+$CMP NKK_NR01
+D Rotary switch, 4-bit encoding
+K rotary hex
+$ENDCMP
+#
+#End Doc Library
