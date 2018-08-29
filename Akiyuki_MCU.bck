@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CY8C4244PVI-442
+D PSoC4 4200 familly SSOP 28pin
+K PSoC SSOP 28 pin
+$ENDCMP
+#
 #End Doc Library
