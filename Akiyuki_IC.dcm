@@ -11,7 +11,7 @@ D maxim 16bit quad DAC TSSOP16
 $ENDCMP
 #
 $CMP MAX5136
-D maxim 16bit dual DAC TSSOP16
+D maxim 16bit quad DAC TSSOP16
 $ENDCMP
 #
 #End Doc Library
