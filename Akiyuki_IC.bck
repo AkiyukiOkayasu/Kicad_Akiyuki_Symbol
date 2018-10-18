@@ -6,4 +6,8 @@ K DAC
 F http://www.ti.com/lit/ds/symlink/dac8552.pdf
 $ENDCMP
 #
+$CMP MAX5134
+D maxim 16bit quad DAC
+$ENDCMP
+#
 #End Doc Library
