@@ -12,6 +12,7 @@ KiCad part library for modular synth.
   - NKK: NR01
 - Akiyuki_MCU
   - PSoC4 4200: CY8C4244PVI-442（SSOP 28pin）
+  - PSoC4 4200-L: CY8C4246AZI-L433(TQFP 48pin)
 
 
 ## License
