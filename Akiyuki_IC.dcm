@@ -14,4 +14,8 @@ $CMP MAX5136
 D maxim 16bit quad DAC TSSOP16
 $ENDCMP
 #
+$CMP TBD62083
+D 8-Channel Sink Type Transistor Array, 500mA, 50V, DIP-18/SOP-18/SSOP-18/SOIC-18W
+$ENDCMP
+#
 #End Doc Library
