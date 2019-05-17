@@ -1,9 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AK4558
+D Asahi-Kasei stereo audio codec
+$ENDCMP
+#
 $CMP DAC8552
 D 16bit 2ch Voltage output DAC
 K DAC
 F http://www.ti.com/lit/ds/symlink/dac8552.pdf
+$ENDCMP
+#
+$CMP IRL640A
+D 38A Id, 20V Vds, 0.75mOhm Rds, N-Channel MOSFET, DirectFET MD
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/irl6283mpbf.pdf?fileId=5546d462533600a40153565fe9452573
+$ENDCMP
+#
+$CMP LM4040
+D Voltage reference
 $ENDCMP
 #
 $CMP MAX5134
@@ -12,6 +26,36 @@ $ENDCMP
 #
 $CMP MAX5136
 D maxim 16bit quad DAC TSSOP16
+$ENDCMP
+#
+$CMP NJM2396
+D Linear regulator
+K Linear regulator
+$ENDCMP
+#
+$CMP OPA2172
+D Dual operational amplifier
+K dual opamp
+F ~
+$ENDCMP
+#
+$CMP OPA4172
+D Quad operational amplifier
+K quad opamp
+F ~
+$ENDCMP
+#
+$CMP TBD62083
+D 8-Channel Sink Type Transistor Array, 500mA, 50V, DIP-18/SOP-18/SSOP-18/SOIC-18W
+$ENDCMP
+#
+$CMP THAT2162
+D Dual VCA
+$ENDCMP
+#
+$CMP THAT2162b
+D Dual VCA
+K audio vca
 $ENDCMP
 #
 #End Doc Library
