@@ -2,28 +2,44 @@
 KiCad part library for making modular synth.
 
 - Akiyuki_Connector
-  - THONKICONN
+  - THONKICONN mono
+  - THONKICONN stereo
   
 - Akiyuki_IC
+	- OPAMP
+		- TI: OPA2172, OPA4172
 	- Differential amplifier
 		- Analog Devices: AD8273
 	- VCA
+		- THAT: 2162
 		- THAT: 2180
 	- DAC
-		- Texas Instruments: DAC8552（2ch SPI 16bit DAC）
+		- TI: DAC8552（2ch SPI 16bit DAC）
 		- Maxim: MAX5136（2ch SPI 16bit DAC）
 		- Maxim: MAX5134（4ch SPI 16bit DAC ）
+	- Audio codec
+		- Asahi Kasei: AK4558
 	- Transistor array 
 		- Toshiba: TBD62083
+	- FET
+		- Onsemi: IRL640A
+	- Regulator		
+		- NJM2396
+	- Voltage reference
+		- LM4040
   
 - Akiyuki_UI
-  - Alps: SRBV
+  - ALPS: SRBV
+  - ALPS: RK14K
   - NKK: NR01
   
 - Akiyuki_MCU
   - PSoC
-    - PSoC4 4200: CY8C4244PVI-442（SSOP 28pin）
-    - PSoC4 4200-L: CY8C4246AZI-L433(TQFP 48pin)
+    	- PSoC4 4200: CY8C4244PVI-442（SSOP 28pin）
+    	- PSoC4 4200-L: CY8C4246AZI-L433(TQFP 48pin)
+
+- Akiyuki_Module
+	- Murata: OKL-t/1-W12
   
 
 ## License  
