@@ -11,6 +11,12 @@ K audio jack receptable mono headphones phone TS connector
 F ~
 $ENDCMP
 #
+$CMP THONKICONN_Stereo
+D 2-pin audio jack receptable (mono/TS connector) with switching contact
+K audio jack receptable mono headphones phone TS connector
+F ~
+$ENDCMP
+#
 $CMP USB_B
 D USB Type B connector
 K connector USB
