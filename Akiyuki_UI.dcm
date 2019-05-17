@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ALPS_RK14K
+D Dual pot
+K resistor variable
+F ~
+$ENDCMP
+#
 $CMP Alps_SRBV
 D Rotary encoder, dual channel, incremental quadrate outputs
 K rotary switch encoder
