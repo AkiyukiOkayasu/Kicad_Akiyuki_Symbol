@@ -4,6 +4,10 @@ $CMP AK4558
 D Asahi-Kasei stereo audio codec
 $ENDCMP
 #
+$CMP CCG152415D
+D TDK Lamda DCDC converter +/-15V
+$ENDCMP
+#
 $CMP DAC8552
 D 16bit 2ch Voltage output DAC
 K DAC
