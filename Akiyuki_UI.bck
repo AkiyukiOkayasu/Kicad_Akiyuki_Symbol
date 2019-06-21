@@ -1,6 +1,12 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP ALPS_RK14K
+$CMP ALPS_RK09L_Dual
+D Dual pot
+K resistor variable
+F ~
+$ENDCMP
+#
+$CMP ALPS_RK12L
 D Dual pot
 K resistor variable
 F ~
