@@ -37,6 +37,12 @@ D Linear regulator
 K Linear regulator
 $ENDCMP
 #
+$CMP OPA172
+D Single operational amplifier
+K single opamp
+F ~
+$ENDCMP
+#
 $CMP OPA2172
 D Dual operational amplifier
 K dual opamp
