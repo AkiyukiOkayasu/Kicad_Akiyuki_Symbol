@@ -69,4 +69,9 @@ D Dual VCA
 K audio vca
 $ENDCMP
 #
+$CMP THAT2180
+D VCA
+K audio vca
+$ENDCMP
+#
 #End Doc Library
