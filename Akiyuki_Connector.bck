@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Neutrik_NMJ4HCD2
+D 1/4" mono jack, switched
+K audio jack receptacle mono headphones phone TS connector
+F ~
+$ENDCMP
+#
 $CMP PJ302M_NoSwitch
 K audio jack receptable mono headphones phone TS connector
 F ~
