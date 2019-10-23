@@ -32,6 +32,10 @@ $CMP MAX5136
 D maxim 16bit quad DAC TSSOP16
 $ENDCMP
 #
+$CMP MAX98390
+D I2S input DSM compatible audio amplifier
+$ENDCMP
+#
 $CMP NJM2396
 D Linear regulator
 K Linear regulator
