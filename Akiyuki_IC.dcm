@@ -45,6 +45,10 @@ D Linear regulator
 K Linear regulator
 $ENDCMP
 #
+$CMP OKI-78SE-E
+D Encapsulated Non-Isolated Switching Regulator DC-DC
+$ENDCMP
+#
 $CMP OPA172
 D Single operational amplifier
 K single opamp
