@@ -18,15 +18,13 @@ K rotary switch encoder
 F ~
 $ENDCMP
 #
+$CMP C&K_D6
+D SPST switch for Eurorack
+$ENDCMP
+#
 $CMP NKK_NR01
 D Rotary switch, 4-bit encoding
 K rotary hex
-$ENDCMP
-#
-$CMP Neutrik_NMJ4HCD2
-D 1/4" mono jack, switched
-K audio jack receptacle mono headphones phone TS connector
-F ~
 $ENDCMP
 #
 #End Doc Library
