@@ -7,7 +7,7 @@ KiCad part library for making modular synth.
   
 - Akiyuki_IC
 	- OPAMP
-		- TI: OPA2172, OPA4172
+		- TI: OPA2172, OPA4172, OPA172
 	- Differential amplifier
 		- Analog Devices: AD8273
 	- VCA
@@ -17,6 +17,7 @@ KiCad part library for making modular synth.
 		- TI: DAC8552（2ch SPI 16bit DAC）
 		- Maxim: MAX5136（2ch SPI 16bit DAC）
 		- Maxim: MAX5134（4ch SPI 16bit DAC ）
+		- Maxim: MAX98390(I2S in D class amp)
 	- Audio codec
 		- Asahi Kasei: AK4558
 	- Transistor array 
@@ -25,21 +26,28 @@ KiCad part library for making modular synth.
 		- Onsemi: IRL640A
 	- Regulator		
 		- NJM2396
+		- Microchip: MIC39100
 	- Voltage reference
 		- LM4040
+	- DC/DC
+		- Murata: OKI-78SE-E
+		- TDK: CCG152415D
+	- Audio line driver
+		- THAT: 1646
   
 - Akiyuki_UI
   - ALPS: SRBV
-  - ALPS: RK14K
+  - ALPS: RK09L_Dual
   - NKK: NR01
   
 - Akiyuki_MCU
   - PSoC
-    	- PSoC4 4200: CY8C4244PVI-442（SSOP 28pin）
-    	- PSoC4 4200-L: CY8C4246AZI-L433(TQFP 48pin)
+  	- PSoC4 4200: CY8C4244PVI-442（SSOP 28pin）  
+	- PSoC4 4200-L: CY8C4246AZI-L433(TQFP 48pin)
 
 - Akiyuki_Module
 	- Murata: OKL-t/1-W12
+	- Raspberry Pi Compute Module 3+
   
 
 ## License  
