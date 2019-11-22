@@ -8,6 +8,11 @@ $CMP CCG152415D
 D TDK Lamda DCDC converter +/-15V
 $ENDCMP
 #
+$CMP CS3318
+D 8ch DCA Analog volume control
+K DCA
+$ENDCMP
+#
 $CMP DAC8552
 D 16bit 2ch Voltage output DAC
 K DAC
