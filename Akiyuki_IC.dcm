@@ -72,6 +72,10 @@ K quad opamp
 F ~
 $ENDCMP
 #
+$CMP SG-310
+D Crystal oscillator (SPXO)
+$ENDCMP
+#
 $CMP TBD62083
 D 8-Channel Sink Type Transistor Array, 500mA, 50V, DIP-18/SOP-18/SSOP-18/SOIC-18W
 $ENDCMP
