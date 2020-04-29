@@ -8,6 +8,15 @@ $CMP CCG152415D
 D TDK Lamda DCDC converter +/-15V
 $ENDCMP
 #
+$CMP CS3318
+D 8ch DCA Analog volume control
+K DCA
+$ENDCMP
+#
+$CMP CS4345
+D 10-Pin, 24-Bit, 192 kHz Stereo D/A Converter
+$ENDCMP
+#
 $CMP DAC8552
 D 16bit 2ch Voltage output DAC
 K DAC
@@ -40,6 +49,11 @@ $CMP MIC39100
 D Linear Voltage Regulator IC 1 Output 1A SOT-223-3
 $ENDCMP
 #
+$CMP MT48LC16M16A2
+D 256Mb x16 SDRAM
+K SDRAM
+$ENDCMP
+#
 $CMP NJM2396
 D Linear regulator
 K Linear regulator
@@ -65,6 +79,10 @@ $CMP OPA4172
 D Quad operational amplifier
 K quad opamp
 F ~
+$ENDCMP
+#
+$CMP SG-310
+D Crystal oscillator (SPXO)
 $ENDCMP
 #
 $CMP TBD62083

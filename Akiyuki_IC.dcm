@@ -13,6 +13,14 @@ D 8ch DCA Analog volume control
 K DCA
 $ENDCMP
 #
+$CMP CS4345
+D 10-Pin, 24-Bit, 192 kHz Stereo D/A Converter
+$ENDCMP
+#
+$CMP CS5340
+D 101 dB, 192 kHz, Multi-Bit Audio A/D Converter
+$ENDCMP
+#
 $CMP DAC8552
 D 16bit 2ch Voltage output DAC
 K DAC
