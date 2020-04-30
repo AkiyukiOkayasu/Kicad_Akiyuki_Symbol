@@ -33,6 +33,11 @@ K N-Channel MOSFET
 F https://www.infineon.com/dgdl/irl6283mpbf.pdf?fileId=5546d462533600a40153565fe9452573
 $ENDCMP
 #
+$CMP IS25LP064A
+D 3.3V QSPI flash 133MHz
+K QSPI flash
+$ENDCMP
+#
 $CMP LM4040
 D Voltage reference
 $ENDCMP
