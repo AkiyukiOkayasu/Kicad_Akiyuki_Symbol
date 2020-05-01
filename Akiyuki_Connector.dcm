@@ -29,4 +29,9 @@ K connector USB
 F  ~
 $ENDCMP
 #
+$CMP USB_MicroB_PowerOnly
+D Useconn Electronics / MRUSB-2B-D14NI-S306
+K USB micro B
+$ENDCMP
+#
 #End Doc Library
