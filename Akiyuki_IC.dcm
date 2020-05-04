@@ -42,6 +42,10 @@ $CMP LM4040
 D Voltage reference
 $ENDCMP
 #
+$CMP LM4808
+D Low Voltage High Power Audio Power Amplifier
+$ENDCMP
+#
 $CMP MAX5134
 D maxim 16bit quad DAC TSSOP16
 $ENDCMP
