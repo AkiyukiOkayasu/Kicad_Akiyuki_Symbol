@@ -17,6 +17,10 @@ $CMP CS4345
 D 10-Pin, 24-Bit, 192 kHz Stereo D/A Converter
 $ENDCMP
 #
+$CMP CS5340
+D 101 dB, 192 kHz, Multi-Bit Audio A/D Converter
+$ENDCMP
+#
 $CMP DAC8552
 D 16bit 2ch Voltage output DAC
 K DAC
@@ -29,8 +33,17 @@ K N-Channel MOSFET
 F https://www.infineon.com/dgdl/irl6283mpbf.pdf?fileId=5546d462533600a40153565fe9452573
 $ENDCMP
 #
+$CMP IS25LP064A
+D 3.3V QSPI flash 133MHz
+K QSPI flash
+$ENDCMP
+#
 $CMP LM4040
 D Voltage reference
+$ENDCMP
+#
+$CMP LM4808
+D Low Voltage High Power Audio Power Amplifier
 $ENDCMP
 #
 $CMP MAX5134
@@ -47,6 +60,11 @@ $ENDCMP
 #
 $CMP MIC39100
 D Linear Voltage Regulator IC 1 Output 1A SOT-223-3
+$ENDCMP
+#
+$CMP MIC39101
+D 1A, Low Voltage, Low Dropout Regulatorwith Reversed-Battery Protection
+K LDO
 $ENDCMP
 #
 $CMP MT48LC16M16A2

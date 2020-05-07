@@ -77,6 +77,12 @@ D Linear regulator
 K Linear regulator
 $ENDCMP
 #
+$CMP NJU7032
+D JRC C-MOS low voltage single power opamp
+K dual opamp
+F ~
+$ENDCMP
+#
 $CMP OKI-78SE-E
 D Encapsulated Non-Isolated Switching Regulator DC-DC
 $ENDCMP
