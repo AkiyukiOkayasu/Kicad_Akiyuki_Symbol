@@ -719,7 +719,7 @@ ENDDEF
 DEF SG-310 Y 0 40 Y Y 1 F N
 F0 "Y" 0 -600 50 H V C CNN
 F1 "SG-310" 0 -700 50 H V C CNN
-F2 "" 0 -200 50 H I C CNN
+F2 "Akiyuki_Footprint:SeikoEpson_SG310" 0 -200 50 H I C CNN
 F3 "" 0 -200 50 H I C CNN
 $FPLIST
  *SeikoEpson_SG310
