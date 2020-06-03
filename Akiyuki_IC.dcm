@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADM811
+D Reset IC logic LOW
+K Reset IC
+$ENDCMP
+#
 $CMP AK4558
 D Asahi-Kasei stereo audio codec
 $ENDCMP
