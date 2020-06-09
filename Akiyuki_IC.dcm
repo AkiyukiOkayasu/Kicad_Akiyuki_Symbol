@@ -9,6 +9,11 @@ $CMP AK4558
 D Asahi-Kasei stereo audio codec
 $ENDCMP
 #
+$CMP BUF634A
+D 250-mA Output, High-Speed Buffer
+K Buffer amp headphone amp
+$ENDCMP
+#
 $CMP CCG152415D
 D TDK Lamda DCDC converter +/-15V
 $ENDCMP
