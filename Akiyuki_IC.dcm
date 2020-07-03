@@ -23,6 +23,11 @@ D 8ch DCA Analog volume control
 K DCA
 $ENDCMP
 #
+$CMP CS42448
+D 6in8out Audio codec
+K AudioCodec
+$ENDCMP
+#
 $CMP CS4345
 D 10-Pin, 24-Bit, 192 kHz Stereo D/A Converter
 $ENDCMP
