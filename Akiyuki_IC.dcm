@@ -102,6 +102,18 @@ $CMP OKI-78SE-E
 D Encapsulated Non-Isolated Switching Regulator DC-DC
 $ENDCMP
 #
+$CMP OPA1678
+D Dual operational amplifier
+K dual opamp
+F ~
+$ENDCMP
+#
+$CMP OPA1679
+D Quad operational amplifier
+K quad opamp
+F ~
+$ENDCMP
+#
 $CMP OPA172
 D Single operational amplifier
 K single opamp
