@@ -114,6 +114,12 @@ K quad opamp
 F ~
 $ENDCMP
 #
+$CMP OPA1688
+D Dual operational amplifier
+K dual opamp
+F ~
+$ENDCMP
+#
 $CMP OPA172
 D Single operational amplifier
 K single opamp
