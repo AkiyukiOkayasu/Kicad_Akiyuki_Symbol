@@ -12,6 +12,10 @@ K resistor variable
 F ~
 $ENDCMP
 #
+$CMP ALPS_SKRP
+K Switch
+$ENDCMP
+#
 $CMP Alps_SRBV
 D Rotary encoder, dual channel, incremental quadrate outputs
 K rotary switch encoder
