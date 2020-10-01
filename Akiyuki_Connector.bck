@@ -23,10 +23,20 @@ K audio jack receptable mono headphones phone TS connector
 F ~
 $ENDCMP
 #
+$CMP UJC-HP-3-SMT-TR
+D USB type C connector
+K USB type C connector
+$ENDCMP
+#
 $CMP USB_B
 D USB Type B connector
 K connector USB
 F  ~
+$ENDCMP
+#
+$CMP USB_MicroB_PowerOnly
+D Useconn Electronics / MRUSB-2B-D14NI-S306
+K USB micro B
 $ENDCMP
 #
 #End Doc Library
