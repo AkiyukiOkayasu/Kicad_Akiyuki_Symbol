@@ -28,8 +28,12 @@ D 6in8out Audio codec
 K AudioCodec
 $ENDCMP
 #
+$CMP CS4344
+D 24Bit/192 kHz Stereo D/A Converter_I2S
+$ENDCMP
+#
 $CMP CS4345
-D 10-Pin, 24-Bit, 192 kHz Stereo D/A Converter
+D 24Bit/192 kHz Stereo D/A Converter_LeftJustified
 $ENDCMP
 #
 $CMP CS5340
