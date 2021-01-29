@@ -161,4 +161,9 @@ D VCA
 K audio vca
 $ENDCMP
 #
+$CMP V1401
+D ADAT optical audio data encoder
+K ADAT
+$ENDCMP
+#
 #End Doc Library
