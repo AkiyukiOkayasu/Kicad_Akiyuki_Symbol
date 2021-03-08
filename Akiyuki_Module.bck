@@ -1,7 +1,3 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP SeeeduinoXIAO_NonPad
-D Seeeduino XAIO non back pad
-$ENDCMP
-#
 #End Doc Library
