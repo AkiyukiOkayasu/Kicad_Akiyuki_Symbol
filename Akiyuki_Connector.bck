@@ -17,6 +17,14 @@ K audio jack receptable mono headphones phone TS connector
 F ~
 $ENDCMP
 #
+$CMP PLR135-T10
+D Photo-link FIber Optic Receiver
+$ENDCMP
+#
+$CMP PLT133-T10W
+D Photo-link Light Transmitter Unit
+$ENDCMP
+#
 $CMP THONKICONN
 D 2-pin audio jack receptable (mono/TS connector) with switching contact
 K audio jack receptable mono headphones phone TS connector
