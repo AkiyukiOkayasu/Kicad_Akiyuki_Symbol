@@ -5,6 +5,17 @@ D Reset IC logic LOW
 K Reset IC
 $ENDCMP
 #
+$CMP ADuM1200AR
+D Dual-channel digital isolator, Bidirectional communication, 3V/5V level translation, SOIC-8
+K Dual-channel digital isolator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM1200_1201.pdf
+$ENDCMP
+#
+$CMP ADuM1250
+D I2C isolator
+K Dual-channel digital isolator
+$ENDCMP
+#
 $CMP AK4558
 D Asahi-Kasei stereo audio codec
 $ENDCMP
