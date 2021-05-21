@@ -37,15 +37,16 @@ K audio jack receptable mono headphones phone TS connector
 F ~
 $ENDCMP
 #
-$CMP UJC-HP-3-SMT-TR
-D USB type C connector
-K USB type C connector
-$ENDCMP
-#
 $CMP USB_B
 D USB Type B connector
 K connector USB
 F  ~
+$ENDCMP
+#
+$CMP USB_C_Receptacle_PowerOnly
+D USB Type-C Receptacle connector
+K usb universal serial bus type-C
+F https://www.usb.org/sites/default/files/documents/usb_type-c.zip
 $ENDCMP
 #
 $CMP USB_MicroB_PowerOnly

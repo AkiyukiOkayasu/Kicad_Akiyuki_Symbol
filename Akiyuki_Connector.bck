@@ -48,6 +48,12 @@ K connector USB
 F  ~
 $ENDCMP
 #
+$CMP USB_C_Receptacle_PowerOnly
+D USB Type-C Receptacle connector
+K usb universal serial bus type-C
+F https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+$ENDCMP
+#
 $CMP USB_MicroB_PowerOnly
 D Useconn Electronics / MRUSB-2B-D14NI-S306
 K USB micro B
