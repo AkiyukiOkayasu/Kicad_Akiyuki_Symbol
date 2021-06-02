@@ -5,12 +5,6 @@ D Reset IC logic LOW
 K Reset IC
 $ENDCMP
 #
-$CMP ADuM1200AR
-D Dual-channel digital isolator, Bidirectional communication, 3V/5V level translation, SOIC-8
-K Dual-channel digital isolator
-F https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM1200_1201.pdf
-$ENDCMP
-#
 $CMP ADuM1250
 D I2C isolator
 K Dual-channel digital isolator
@@ -18,6 +12,12 @@ $ENDCMP
 #
 $CMP AK4558
 D Asahi-Kasei stereo audio codec
+$ENDCMP
+#
+$CMP ATSAMD21G18A-AUT
+D SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 256K Flash, 32K SRAM, TQFP-48
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf
 $ENDCMP
 #
 $CMP BUF634A

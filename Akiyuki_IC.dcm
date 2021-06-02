@@ -14,6 +14,12 @@ $CMP AK4558
 D Asahi-Kasei stereo audio codec
 $ENDCMP
 #
+$CMP ATSAMD21G18A-AUT
+D SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 256K Flash, 32K SRAM, TQFP-48
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf
+$ENDCMP
+#
 $CMP BUF634A
 D 250-mA Output, High-Speed Buffer
 K Buffer amp headphone amp
