@@ -57,6 +57,12 @@ K DAC
 F http://www.ti.com/lit/ds/symlink/dac8552.pdf
 $ENDCMP
 #
+$CMP DSC1001
+D SMD Clock Oscillator
+K SMD Clock Oscillator
+F https://rocelec.widen.net/view/pdf/4jp9qpy8qv/MCHP-S-A0003587227-1.pdf?t.download=true&u=5oefqw
+$ENDCMP
+#
 $CMP IRL640A
 D 38A Id, 20V Vds, 0.75mOhm Rds, N-Channel MOSFET, DirectFET MD
 K N-Channel MOSFET
