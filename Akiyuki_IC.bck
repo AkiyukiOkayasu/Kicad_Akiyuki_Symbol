@@ -108,6 +108,10 @@ D 256Mb x16 SDRAM
 K SDRAM
 $ENDCMP
 #
+$CMP NJM12888
+D Linear Voltage Regulator IC 1 Output 300mA SOT-23-5
+$ENDCMP
+#
 $CMP NJM2396
 D Linear regulator
 K Linear regulator
