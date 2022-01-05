@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP RaspberryPiPico
+D Raspberry Pi Pico
+$ENDCMP
+#
 #End Doc Library
