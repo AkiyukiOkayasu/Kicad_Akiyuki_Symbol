@@ -2980,7 +2980,7 @@
     (property "ki_description" "Linear Voltage Regulator IC 1 Output 300mA SOT-23-5" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_fp_filters" "Package_TO_SOT_SMD:SOT-223-3_TabPin2" (id 5) (at 0 0 0)
+    (property "ki_fp_filters" "Package_TO_SOT_SMD:SOT-23-5*" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "NJM12888_1_1"
