@@ -231,26 +231,26 @@
       )
     )
   )
-  (symbol "ALPS_RK09L_15mm_D" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "ALPS_RK09L_Single_15mm_D" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "RV" (id 0) (at -4.445 0 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "ALPS_RK09L_15mm_D" (id 1) (at -2.54 0 90)
+    (property "Value" "ALPS_RK09L_Single_15mm_D" (id 1) (at -2.54 0 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Akiyuki_Footprint:ALPS_RK09L_Single_Vertical_20mm" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://tech.alpsalpine.com/prod/j/html/potentiometer/rotarypotentiometers/rk09l/rk09l1140a2u.html" (id 3) (at 0 0 0)
+    (property "Datasheet" "https://tech.alpsalpine.com/prod/j/html/potentiometer/rotarypotentiometers/rk09l/rk09l1140a5l.html" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "resistor variable" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Pot 10kB NoCenterClick D-shaft Threaded" (id 5) (at 0 0 0)
+    (property "ki_description" "Pot 10kB NoCenterClick D-shaft Threaded 15mm" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "ALPS_RK09L_15mm_D_0_1"
+    (symbol "ALPS_RK09L_Single_15mm_D_0_1"
       (polyline
         (pts
           (xy 2.54 0)
@@ -274,7 +274,7 @@
         (fill (type none))
       )
     )
-    (symbol "ALPS_RK09L_15mm_D_1_1"
+    (symbol "ALPS_RK09L_Single_15mm_D_1_1"
       (pin passive line (at 0 -3.81 90) (length 1.27)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
