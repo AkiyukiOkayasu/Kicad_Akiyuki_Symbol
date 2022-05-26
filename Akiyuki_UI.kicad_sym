@@ -238,7 +238,7 @@
     (property "Value" "ALPS_RK09L_Single_15mm_D" (id 1) (at -2.54 0 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Akiyuki_Footprint:ALPS_RK09L_Single_Vertical_20mm" (id 2) (at 0 0 0)
+    (property "Footprint" "Akiyuki_Footprint:ALPS_RK09L_Single_Vertical_15mm" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://tech.alpsalpine.com/prod/j/html/potentiometer/rotarypotentiometers/rk09l/rk09l1140a5l.html" (id 3) (at 0 0 0)
