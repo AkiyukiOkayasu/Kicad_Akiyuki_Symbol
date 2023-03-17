@@ -305,7 +305,7 @@
     (property "Value" "PJ302M" (at 1.27 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Akiyuki_Footprint:PJ302M" (at 6.35 2.54 0)
+    (property "Footprint" "Akiyuki_footprint:PJ302M" (at 6.35 2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 6.35 2.54 0)
