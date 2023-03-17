@@ -6,7 +6,7 @@
     (property "Value" "CUI30A02E" (at 0 -11.43 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Akiyuki_footprint:CUI30A02E" (at -1.27 11.43 0)
+    (property "Footprint" "Akiyuki_footprint:OEP_CUI30A02E" (at -1.27 11.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://carnhill.co.uk/wp-content/uploads/2019/07/CUI30A02E.pdf" (at -2.54 13.97 0)
