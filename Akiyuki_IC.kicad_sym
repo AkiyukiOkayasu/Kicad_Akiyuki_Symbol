@@ -4429,7 +4429,7 @@
     (property "Value" "TDA7293" (at 0 -20.32 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical" (at 0 -21.59 0)
+    (property "Footprint" "Akiyuki_footprint:STM_Multiwatt15V" (at 0 -21.59 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://www.st.com/resource/en/datasheet/tda7293.pdf" (at 0 -21.59 0)
@@ -4442,9 +4442,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_description" "120-volt, 100-watt, DMOS Audio Amplifier with Mute and Standby, TO-220-15" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "ki_fp_filters" "TO?220*StaggerOdd*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "TDA7293_1_1"
