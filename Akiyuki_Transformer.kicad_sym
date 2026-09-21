@@ -685,8 +685,8 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "TR"
-			(at 0 15.24 0)
+		(property "Reference" "T"
+			(at -0.254 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -696,7 +696,7 @@
 			)
 		)
 		(property "Value" "EA2503"
-			(at 0 -15.494 0)
+			(at -0.508 -18.796 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1083,8 +1083,19 @@
 			)
 		)
 		(symbol "EA2503_1_1"
+			(rectangle
+				(start -8.89 15.24)
+				(end 8.89 -15.24)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
 			(pin passive line
-				(at -10.16 5.08 0)
+				(at -11.43 5.08 0)
 				(length 2.54)
 				(name "Brown"
 					(effects
@@ -1156,7 +1167,7 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -5.08 0)
+				(at -11.43 -5.08 0)
 				(length 2.54)
 				(name "Red"
 					(effects
