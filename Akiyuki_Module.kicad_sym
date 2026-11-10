@@ -964,7 +964,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Opamp_Dual"
+		(property "Value" "OPA1622DIP"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
